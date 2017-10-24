@@ -27,7 +27,7 @@
 
 
 ### Rubric
-- 2pts: Site is deployed to Azure (Db, and App)
+- 2pts: Site is deployed to Azure (Db, and App. Provide URL in Readme file)
 - 2pts: 2 external providers are available for login
 - 2pts: Successful login can be done with both providers (in production and development)
 - 2pts: Code clearly commented and meets industry standards

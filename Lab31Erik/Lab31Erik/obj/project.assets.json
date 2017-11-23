@@ -13117,7 +13117,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EndUser\\.nuget\\packages\\": {},
+    "C:\\Users\\shop2\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13126,17 +13126,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\EndUser\\source\\repos\\Lab31-OAuth\\Lab31Erik\\Lab31Erik\\Lab31Erik.csproj",
+      "projectUniqueName": "C:\\Users\\shop2\\source\\repos\\Lab31-OAuth\\Lab31Erik\\Lab31Erik\\Lab31Erik.csproj",
       "projectName": "Lab31Erik",
-      "projectPath": "C:\\Users\\EndUser\\source\\repos\\Lab31-OAuth\\Lab31Erik\\Lab31Erik\\Lab31Erik.csproj",
-      "packagesPath": "C:\\Users\\EndUser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EndUser\\source\\repos\\Lab31-OAuth\\Lab31Erik\\Lab31Erik\\obj\\",
+      "projectPath": "C:\\Users\\shop2\\source\\repos\\Lab31-OAuth\\Lab31Erik\\Lab31Erik\\Lab31Erik.csproj",
+      "packagesPath": "C:\\Users\\shop2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shop2\\source\\repos\\Lab31-OAuth\\Lab31Erik\\Lab31Erik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\EndUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shop2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
